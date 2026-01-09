@@ -1,6 +1,6 @@
 # Arona-AI-Pet
 
-BA阿罗娜的LLM桌宠，demo级实现，请自备OpenAI Compatible API
+BA阿罗娜的LLM桌宠，demo级实现，仅供学习交流，请自备OpenAI Compatible API
 
 [spine来源](https://github.com/Apis035/bluearchive-spine)
 
@@ -42,7 +42,15 @@ BA阿罗娜的LLM桌宠，demo级实现，请自备OpenAI Compatible API
 
 没有语音功能，但是有日语输出，想加语音可以自己尝试
 
+有个图标在托盘区，设置请右键该图标
+
 ![](git_assets/bad.png)
 ![](git_assets/ok.png)
+
+## 构建
+
+```bash
+npm run tauri build
+```
 
 随缘更新
